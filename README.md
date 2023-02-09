@@ -1,0 +1,2 @@
+# MiniProjec
+angular_project
